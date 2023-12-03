@@ -50,3 +50,4 @@ jobs:
         with:
           tag_name: ${{ steps.tag.outputs.release_tag }}
           files: Stealerium.zip
+          
